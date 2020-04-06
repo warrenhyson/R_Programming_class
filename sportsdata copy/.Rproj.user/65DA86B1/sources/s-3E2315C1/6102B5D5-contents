@@ -1,0 +1,11 @@
+Package: sportsdata
+Type: Package
+Title: Imports and provided descriptive statistics on sports data
+Version: 0.0.0.9000
+Author: Warren Hyson
+Maintainer: Warren C Hyson <warrenhyson@mail.usf.edu>s
+Description: The goal of this package is for sports fans to have a easy way to get data from all years for their favorite sports including; Hockey(NHL), Football(NFL), and Basketball(NBA). 
+Additonally, there will be built in functions for creating simple graphs and retriving statistics so that non-coders can have a easy time getting data on thier favorite teams.
+License: CCO
+Encoding: UTF-8
+LazyData: true
